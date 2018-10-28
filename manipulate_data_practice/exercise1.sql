@@ -3,8 +3,5 @@
 -- Name	    Capital	 Population
 -- France	Paris	 67,158,000
 
--- From the terminal type
-\c encylopedia 
-
 INSERT INTO countries (name, capital, population)
 VALUES ('France','Paris', 67158000);
